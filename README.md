@@ -3,7 +3,7 @@ Welcome to my repository, which contains a portfolio of data science projects th
 
 Contents
 
-- Heart Disease Prediction Dataset: Predicting heart disease from medical data with different models 
+- [Heart Disease Prediction Dataset](https://github.com/JGula-DS/Data-Science-Portfolio-Privat/blob/main/Heart_Disease_Dataset.ipynb): Predicting heart disease from medical data with different models 
 
 - Student Performance Factors: Predicting student test scores based on data such as study habits, attendance, parental involvement, and other aspects influencing academic success
 
