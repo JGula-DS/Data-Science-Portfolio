@@ -1,7 +1,8 @@
-Data science portfolio
+## **Data science portfolio**
+
 Welcome to my repository, which contains a portfolio of data science projects that I have done for self-study and as a hobby and would like to present as Jupyter Notebooks.
 
-Contents
+**Contents**
 
 - [Heart Disease Prediction Dataset](https://github.com/JGula-DS/Data-Science-Portfolio-Privat/blob/main/Heart_Disease_Dataset.ipynb): Predicting heart disease from medical data with different models 
 
